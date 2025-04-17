@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viet Anh</h1>
 <h3 align="center">Tryhard to become an AI engineer</h3>
 
-- 🔭 I’m currently studying **Computer Science at PTIT**
-
-- 👯 I’m looking to collaborate on projects related to **NLP or Computer Vision.**
-
-- 🌱 I’m conducting research on **Computer Vision, NLP, Generative AI (GenAI), LLMs, and Fullstack Web Development.**
-
-- 🤝 I’m seeking an internship in AI, specifically in **Computer Vision, NLP, or Generative AI.**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vietanhlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vietanhlee" height="30" width="40" /></a>
